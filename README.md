@@ -1,0 +1,1 @@
+# plugins-simple-wp-maintenance-mode
